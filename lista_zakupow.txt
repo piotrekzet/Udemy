@@ -1,3 +1,4 @@
 produkt1	  3,50
 produkt2	 43,23
 produkt3	131,30
+produkt4	  1,45
