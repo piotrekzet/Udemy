@@ -1,1 +1,2 @@
-produkt1	3,50
+produkt1	  3,50
+produkt2	 43,23
