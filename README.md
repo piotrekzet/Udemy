@@ -3,3 +3,4 @@
 Dodatkowa linijka z poziomu repo "Udemy"
 Kolejna linijka z poziomu repo "Udemy"
 I jeszcze jedna aktualizacja repo "Udemy"
+Linia 6
