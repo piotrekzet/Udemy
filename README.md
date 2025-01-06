@@ -4,3 +4,4 @@ Zmiana lokalna 2
 Zmiana zdalna
 Zmiana zdalna 2
 Zmiana zdalna 3
+Zmiana zdalna 4
